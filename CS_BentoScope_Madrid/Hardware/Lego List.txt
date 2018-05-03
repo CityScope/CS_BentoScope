@@ -1,0 +1,7 @@
+Lego: 
+2x2 white plate flat top: 16x16x1.5 = 384
+2x2 white plate normal: 16x16x1.5 = 384
+1x1 white plate: 16x16x4x1.2 = 1229
+1x1 black plate: 16x16x2x1.2 = 615
+1x1 red plate: 16x16x1x1.5 = 384
+1x1 yellow plate: 16x16x1x1.5 = 384
