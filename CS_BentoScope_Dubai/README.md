@@ -1,0 +1,2 @@
+# CS_BentoScope_Dubai
+BentoScope is a mini version of CityScope urban decision support system. CS_BentoScope_Dubai was used in the 2016 Media Lab Dubai workshop. It provides a happiness indicator which measure the urban resources accessability therefore spatial sensitive happiness.  

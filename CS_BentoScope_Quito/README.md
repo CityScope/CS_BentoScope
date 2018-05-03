@@ -1,0 +1,2 @@
+# CS_BentoScope_Quito
+BentoScope is a mini version of CityScope urban decision support system. CS_BentoScope_Quito was used in the workshop in Quito, collabrating with Intercontinental Development Bank. It provides two scales of urban decision support. 

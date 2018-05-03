@@ -1,0 +1,2 @@
+# CS_BentoScope_Madrid
+BentoScope is a mini version of CityScope urban decision support system. CS_BentoScope_Madrid was used in the 2018 June "Beyond Smart City" workshop in Madrid, collabrating with Norman Foster Fundation. It provides two scales of urban decision support. 
