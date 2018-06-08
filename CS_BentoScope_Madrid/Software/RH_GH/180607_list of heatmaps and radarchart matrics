@@ -1,0 +1,43 @@
+list of heatmaps and radarchart matrics
+
+1.6 km scale:
+Heatmaps: 
+1. walkability job to home
+2. walkability home to job
+3. walkability both to park
+4. population density
+5. experience diversity
+6. live/work balance
+7. building energy efficiency (sqm/person)
+Radarchart Matics: 
+1. walkability job to home
+2. walkability home to job
+3. walkability both to park
+4. population density
+5. experience diversity
+6. live/work balance
+7. building energy efficiency (sqm/person)
+8. mobility energy efficiency (base on commuting, live/work balance, not possible to show as heatmap)
+
+440 m scale:
+Heatmaps: 
+1. walkability job to home
+2. walkability home to job
+3. walkability both to park
+4. population density
+5. experience diversity
+6. live/work balance
+7. building energy efficiency (sqm/person)
+8. traffic
+9. solar access
+Radarchart Matics: 
+1. walkability job to home
+2. walkability home to job
+3. walkability both to park
+4. population density
+5. experience diversity
+6. live/work balance
+7. building energy efficiency (sqm/person)
+8. mobility energy efficiency (base on commuting, live/work balance)
+9. traffic
+10. solar access
