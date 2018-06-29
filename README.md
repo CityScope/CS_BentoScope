@@ -10,4 +10,7 @@ BentoScope is a mini version of CityScope urban decision support system. It has 
 [gHowl for Grasshopper latest version](http://www.food4rhino.com/app/ghowl)  
 (note: Rhino 6, Rhino for Mac, or Grasshopper 1.0 is **NOT** supported)
 
-[Contributors](https://github.com/CityScope/CS_BentoScope/graphs/contributors)
+
+## Contributors
+[Contributors of this repo](https://github.com/CityScope/CS_BentoScope/graphs/contributors)  
+Main contributors of this project: "Ryan" Yan Zhang, Luis Alonso, Kent Larson
